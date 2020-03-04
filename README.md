@@ -1,2 +1,4 @@
 # MyVeryFirst
-Small &amp;&amp; Basic Programs for Git Baby
+Small && Basic Programs for Git Baby
+My Very first programme in Python pa.
+And there sequences
